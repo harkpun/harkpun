@@ -16,8 +16,8 @@
 
 - 🧑‍🎓 Experienced BI professional.
 - 🧐 Skilled in data-driven business solutions.
-- 🌱 Currently exploaring vast data analytical about space.
-- 👯 Looking forward to collaborate on any Data related projects.
+- 🌱 Continuously deepening my expertise in data analytics.
+- 👯 Feel free to connect for collaborating on data related projects.
 - 💬 Ask me about Data related stuff.
 - 📫 How to reach me: [Linkedin - @HarkPun](https://www.linkedin.com/in/harkpun/)
 - 😄 Pronouns: He/His
