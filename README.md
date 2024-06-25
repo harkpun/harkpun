@@ -20,7 +20,7 @@
 - 👯 Feel free to connect for collaborating on data related projects.
 - 💬 Ask me about Data related stuff.
 - 📫 How to reach me: [Linkedin - @HarkPun](https://www.linkedin.com/in/harkpun/)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
 [![Linkedin: HarkPun](https://img.shields.io/badge/-HarkPun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harkpun/)](https://www.linkedin.com/in/harkpun/)
