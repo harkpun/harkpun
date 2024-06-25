@@ -14,11 +14,10 @@
 <br/>
 
 
-- 🧑‍🎓 I'm currently pursuing Data Science.
-- 🧐 I'm interested in AI/ML technologies.
-- 🌱 I’m currently learning more about ML algorithms.
-- 👯 I’m looking to collaborate on any Data related projects.
-- 🤔 I’m looking for help with career guidance.
+- 🧑‍🎓 Experienced BI professional.
+- 🧐 Skilled in data-driven business solutions.
+- 🌱 Currently exploaring vast data analytical about space.
+- 👯 Looking forward to collaborate on any Data related projects.
 - 💬 Ask me about Data related stuff.
 - 📫 How to reach me: [Linkedin - @HarkPun](https://www.linkedin.com/in/harkpun/)
 - 😄 Pronouns: He/His
@@ -30,16 +29,12 @@
 
 
 **Languages and Tools:**  
-<code><img height="20" src="https://iconduck.com/icons/240335/ms-excel?shared"></code>
+<code><img height="20" src="https://static-00.iconduck.com/assets.00/ms-excel-icon-512x449-ciy30awz.png"></code>
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png"></code>
-
 
 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
-
