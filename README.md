@@ -31,8 +31,8 @@
 **Languages and Tools:**  
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/ms-excel-icon-512x449-ciy30awz.png"></code>
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://www.pngitem.com/pimgs/m/197-1973343_sql-database-icon-png-transparent-png.png"></code>
+<code><img height="20" src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pb65l7gl.png"></code>
 
 
 <div align="center">
