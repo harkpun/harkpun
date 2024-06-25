@@ -16,7 +16,7 @@
 
 - 🧑‍🎓 Experienced BI professional.
 - 🧐 Skilled in data-driven business solutions.
-- 🌱 Continuously deepening my expertise in data analytics.
+- 🌱 Continuously deepening my expertise in data analytics space.
 - 👯 Feel free to connect for collaborating on data related projects.
 - 💬 Ask me about Data related stuff.
 - 📫 How to reach me: [Linkedin - @HarkPun](https://www.linkedin.com/in/harkpun/)
