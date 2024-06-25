@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning more about ML algorithms.
 - 👯 I’m looking to collaborate on any Data related projects.
 - 🤔 I’m looking for help with career guidance.
-- 💬 Ask me about Electric vehicle and Data related stuff.
+- 💬 Ask me about Data related stuff.
 - 📫 How to reach me: [Linkedin - @HarkPun](https://www.linkedin.com/in/harkpun/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
@@ -32,7 +32,8 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png"></code>
 
 
 <div align="center">
